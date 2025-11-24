@@ -1,19 +1,12 @@
-# arrow-function-default-parameters
-# L0 - Convert to Arrow Function with Default Parameters
+## 🧠 JavaScript Practice Challenges
 
-## Problem Statement
+### 🟩 L0 Beginner Challenges
 
-You are provided with a function `multiply(a, b)` that multiplies two numbers.  
-Your task is to rewrite this function using **arrow function syntax** with a slight enhancement:  
-Include **default parameters** for both `a` and `b`.  
-If no values are passed, `a` and `b` should default to **1**.
+1. 🔹 **Arrow Function with Default Parameters**  
+   📄 `multiply.js`
 
----
+2. 🔹 **Square and Cube with Implicit Return**  
+   📄 `squareCube.js`
 
-### Function Given:
-
-```js
-function multiply(a, b) {
-  return a * b;
-}
+✨ More challenges coming soon…
 
